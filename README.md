@@ -1,5 +1,5 @@
 
-## Hey there! 👋 I'm Jake Sturges, a 20-year-old Graphic Information Technology student at Arizona State University. Here's a bit about me:
+## Hey there! 👋 I'm Jake Sturges, a Graphic Information Technology student at Arizona State University. Here's a bit about me:
 <br>
  🔱 Education: Currently specializing in full-stack web development and Cybersecurity at ASU.<br>
  💻 Passion: Coding has become my latest obsession. I'm constantly learning new languages to broaden my expertise.<br>
